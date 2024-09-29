@@ -1,4 +1,4 @@
-Here's a sample README file explaining the differences between arrays and `ArrayList` in Java, including advantages, disadvantages, and examples:
+Explaining the differences between arrays and `ArrayList` in Java, including advantages, disadvantages, and examples:
 
 ---
 
